@@ -1,7 +1,9 @@
 ## Hi there 👋
 I'm a fullstack web developer
-- 👨‍💻 Currently working at TrixBrix.eu
+- 👨‍💻 Currently working at TrixBrix
+- 🎓 Studying for a master’s degree in Computer Science
 - 📫 How to reach me: m.krzysteczko@icloud.com
+
 
 ## My socials
 
