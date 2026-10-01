@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="./lego-header.svg" width="100%" alt="Michał Krzysteczko - Fullstack Web Developer">
+</p>
+
 I'm a fullstack web developer
 - 👨‍💻 Currently working at Trixbrix
 - 🎓 Master’s degree in Computer Science
